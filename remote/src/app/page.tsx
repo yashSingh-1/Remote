@@ -1,7 +1,8 @@
 
 export default function Home() {
   return (
-    <div>
+    <div className="text-2xl underline shadow-xl">
+      Show me something
 
     </div>
   );
